@@ -1,7 +1,7 @@
 ## Bienvenido al portal de noticias de Ciberseguridad
 
 Este es el listado de los ultimos reportes de 
-1437 [PureLocker](https://github.com/robben-ar/noticias/purelocker-ibm_xforce.png)
+1437 [PureLocker](https://robben-ar.github.io/noticias/purelocker-ibm_xforce.png)
 
 You can use the [editor on GitHub](https://github.com/robben-ar/noticias/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
